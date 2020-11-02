@@ -64,7 +64,3 @@ if __name__ == '__main__':
     user = user_profile.get_profile()
     print(user1 & user2)
     print(user)
-
-
-
-
